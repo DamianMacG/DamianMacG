@@ -1,6 +1,6 @@
 👋 Hello! I'm Damian, a dedicated Full-Stack Software Engineer based in London, UK. 🚀
 
-With a deep-rooted passion for both creativity and analytical thinking, I've seamlessly fused my diverse background in Social Care, the Arts, and Mathematics into the realm of technology. My journey has been a tapestry of unique experiences, each thread contributing to my proficiency in tech and beyond. I am on a relentless pursuit of learning, always eager to expand my horizons and stay ahead in the ever-evolving tech landscape.
+With a deep-rooted passion for both creativity and analytical thinking, I've seamlessly fused my diverse background in Social Care, the Arts, and Mathematics into the realm of technology. My journey has been a tapestry of unique experiences, each thread contributing to my proficiency in tech and beyond. I am on a relentless pursuit of learning, always eager to expand my knowledge and stay ahead in the ever-evolving tech landscape.
 
 💻 Tech Stack: NodeJS | JavaScript | Typescript | Express | React | SQL | HTML | CSS | Testing | Git | Agile
 
