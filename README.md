@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://api.deepai.org/job-view-file/d9c0199b-144d-4e40-9761-e4acef4a531d/outputs/output.jpg" alt="Image Alt Text">
-</p>
+![2b6f42f2-7469-4797-93eb-6a2c39beca1c](https://github.com/DamianMacG/DamianMacG/assets/125369670/4b50bf68-e4bd-4763-b48b-fd418f6d272c)
+
 
 
 <h1 align="center">Hi 👋, I'm Damian!</h1>
