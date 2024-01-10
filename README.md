@@ -26,9 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianmacg&show_icons=true&locale=en&theme=dark" alt="damianmacg" /></p>
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damianmacg" alt="damianmacg"
-    style="filter: invert(1); -webkit-filter: invert(1);" />
-</p>
-
-
