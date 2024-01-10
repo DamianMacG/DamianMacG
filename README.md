@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **damiangildea12@gmail.com**
 
-- ⚡ Fun fact **I have qualifications in Mathematics and Acting, both of which I studied independently at University level!**
+- ⚡ Fun fact **I have University qualifications in both Mathematics and Acting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
