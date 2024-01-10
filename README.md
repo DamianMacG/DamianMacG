@@ -1,3 +1,7 @@
+![324114bc-dc2f-40d7-aa44-c1d2d7633ed7](https://github.com/DamianMacG/DamianMacG/assets/125369670/fc40227b-34cc-4828-b316-7cbeb87f1be2)
+
+
+
 <h1 align="center">Hi 👋, I'm Damian!</h1>
 <h3 align="center">A passionate Software Engineer based in London.</h3>
 
