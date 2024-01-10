@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything you like!**
 
-- 📫 How to reach me **daiangildea12@gmail.com**
+- 📫 How to reach me **damiangildea12@gmail.com**
 
 - ⚡ Fun fact **I have qualifications in Mathematics and Acting, both of which I studied independently at University level!**
 
@@ -26,5 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianmacg&show_icons=true&locale=en&theme=dark" alt="damianmacg" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damianmacg&theme=dark" alt="damianmacg" /></p>
+<div style="background-color: #0D1117; padding: 20px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damianmacg" alt="damianmacg" />
+</div>
+
 
