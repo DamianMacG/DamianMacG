@@ -25,9 +25,6 @@
 ![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianmacg&show_icons=true&theme=radical)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianmacg&show_icons=true&locale=en&layout=compact&theme=dark" alt="damianmacg" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianmacg&show_icons=true&locale=en&theme=dark" alt="damianmacg" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianmacg&layout=pie&theme=radical)](https://github.com/damianmacg/github-readme-stats)
 
 
