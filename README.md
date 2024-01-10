@@ -1,4 +1,7 @@
-<img src="https://api.deepai.org/job-view-file/d9c0199b-144d-4e40-9761-e4acef4a531d/outputs/output.jpg" alt="Image Alt Text" width="100%">
+<p align="center">
+  <img src="https://api.deepai.org/job-view-file/d9c0199b-144d-4e40-9761-e4acef4a531d/outputs/output.jpg" alt="Image Alt Text">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Damian!</h1>
 <h3 align="center">A passionate Software Engineer based in London.</h3>
