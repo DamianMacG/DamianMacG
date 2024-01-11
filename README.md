@@ -27,5 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianmacg&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+[![Damian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DamianMacG&theme=github-compact)](https://github.com/damianmacg/github-readme-activity-graph)
+
 
 
