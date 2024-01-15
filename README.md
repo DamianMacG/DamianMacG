@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **damiangildea12@gmail.com**
 
-- ⚡ Fun fact **I have University qualifications in both Mathematics and Acting!**
+- ⚡ Fun fact **I have University qualifications in both Mathematics and Theatre & Film!**
 
 <p align="left">
 <a href="https://linkedin.com/in/damiangildea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damiangildea" height="30" width="40" /></a>
