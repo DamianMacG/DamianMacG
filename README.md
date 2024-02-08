@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node-Natours & EduTaskJS**
 
-- 🌱 I’m currently learning **Typescript & MongoDB**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **anything you like!**
 
