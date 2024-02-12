@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Damian!</h1>
 <h3 align="center">A passionate Software Engineer based in London.</h3>
 
-- 🔭 I’m currently working on **Node-Natours & EduTaskJS**
+- 🔭 I’m currently working on **Node-Natours & [EduTaskJS](https://github.com/DamianMacG/EduTaskJS)**
 
 - 🌱 Current interests - **Typescript** - **Terraform**
 
