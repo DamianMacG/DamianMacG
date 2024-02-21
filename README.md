@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Node-Natours](https://github.com/DamianMacG/Node-Natours) & [EduTaskJS](https://github.com/DamianMacG/EduTaskJS)**
 
-- 🌱 Current interests - **Typescript** & **Terraform**
+- 🌱 Current interests - **Terraform** & **AWS**
 
 - 💬 Ask me about **anything you like!**
 
