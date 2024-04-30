@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Damian!</h1>
 <h3 align="center">A passionate Software Engineer based in London.</h3>
 
-- 🔭 I’m currently working on **[Node-Natours](https://github.com/DamianMacG/Node-Natours), [MOOC-Java](https://github.com/DamianMacG/MOOC-Java)**
+- 🔭 I’m currently working on **[Node-Natours](https://github.com/DamianMacG/Node-Natours) & [MOOC-Java](https://github.com/DamianMacG/MOOC-Java)**
 
 - 🌱 Current interests - **Java** & **Kotlin**
 
